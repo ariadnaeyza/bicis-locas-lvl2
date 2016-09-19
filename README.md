@@ -1,5 +1,7 @@
 ## Loc@s por las bicis - Level 2
 
+![alt](http://1.1m.yt/kzp82kq.png)
+
 Partiendo del ejercicio Loc@s por las bicis cambiaremos la forma de mostrar los errores al usuario, en vez de mostrar los errores con un alert, Si algún campo presenta error debe informarse al usuario por medio de mensaje, (idealmente un span) que se posicione en del lado derecho del input como se muestra en la imagen.
 
 1. Descarga los archivos en la sección de Descarga, descomprime y colócalos en tu carpeta llamada **bicis-locas-lvl2**   
